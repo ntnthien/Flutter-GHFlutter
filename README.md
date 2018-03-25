@@ -1,8 +1,3 @@
-# ghflutter
+# GHFlutter
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+An Flutter App follow this tutorial: https://www.raywenderlich.com/188257/getting-started-with-flutter
